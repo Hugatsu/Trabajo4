@@ -1,0 +1,34 @@
+{
+    "personajes":[
+        {
+            "id": 1,
+            "nombre": "Mokey D. Luffy",
+            "edad": 19,
+            "tripulacion": "Sombreros de Paja",
+            "rol": "Capitan",
+            "recompensa": 3000000000,
+            "fruta": "Hito Hito no Mi, modelo Nika",
+            "poster":  "/img/luffy.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Roronoa Zoro",
+            "edad": 21,
+            "tripulacion": "Sombreros de Paja",
+            "rol": "Espadachin",
+            "recompensa": 1111000000,
+            "fruta": "Ninguna",
+            "poster":  "/img/zoro.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Nami",
+            "edad": 20,
+            "tripulacion": "Sombreros de Paja",
+            "rol": "Navegante",
+            "recompensa": 366000000,
+            "fruta": "Ninguna",
+            "poster":  "/img/nami.jpg"
+        }
+    ]
+}
