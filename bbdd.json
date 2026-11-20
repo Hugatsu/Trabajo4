@@ -2,13 +2,13 @@
     "personajes":[
         {
             "id": 1,
-            "nombre": "Mokey D. Luffy",
+            "nombre": "Monkey D. Luffy",
             "edad": 19,
             "tripulacion": "Sombreros de Paja",
             "rol": "Capitan",
             "recompensa": 3000000000,
             "fruta": "Hito Hito no Mi, modelo Nika",
-            "poster":  "/img/luffy.jpg"
+            "poster":  "/luffy.jpg"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "rol": "Espadachin",
             "recompensa": 1111000000,
             "fruta": "Ninguna",
-            "poster":  "/img/zoro.jpg"
+            "poster":  "/zoro.jpg"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "rol": "Navegante",
             "recompensa": 366000000,
             "fruta": "Ninguna",
-            "poster":  "/img/nami.jpg"
+            "poster":  "/nami.jpg"
         }
     ]
 }
