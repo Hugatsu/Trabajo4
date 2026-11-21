@@ -1,10 +1,11 @@
+import Formulario from "./components/Formulario";
 import ListaPersonajes from "./components/ListaPersonajes";
-import Prueba from "./components/Prueba";
 
 export default function App(){
 
     return(
         <>
+            <Formulario></Formulario>
             <ListaPersonajes></ListaPersonajes>
         </>
     );
